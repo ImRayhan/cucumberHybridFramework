@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="runner.TestRunner" time="99.501" tests="14" errors="1" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="runner.TestRunner" time="86.716" tests="14" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="20"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-20.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/rayhanchowdhury/eclipse-workspace/hybridNinja/target/surefire/surefirebooter14150258208569053714.jar /Users/rayhanchowdhury/eclipse-workspace/hybridNinja/target/surefire 2023-12-22T21-29-33_277-jvmRun1 surefire17696135736284861622tmp surefire_012557224854423520694tmp"/>
+    <property name="sun.java.command" value="/Users/rayhanchowdhury/eclipse-workspace/hybridNinja/target/surefire/surefirebooter16896980963954788834.jar /Users/rayhanchowdhury/eclipse-workspace/hybridNinja/target/surefire 2023-12-22T22-04-57_336-jvmRun1 surefire8257417655311718652tmp surefire_013320080390560250776tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/rayhanchowdhury/eclipse-workspace/hybridNinja/target/test-classes:/Users/rayhanchowdhury/eclipse-workspace/hybridNinja/target/classes:/Users/rayhanchowdhury/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/rayhanchowdhury/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/rayhanchowdhury/.m2/repository/io/cucumber/cucumber-java/7.14.0/cucumber-java-7.14.0.jar:/Users/rayhanchowdhury/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/rayhanchowdhury/.m2/repository/io/cucumber/cucumber-junit/7.14.0/cucumber-junit-7.14.0.jar:/Users/rayhanchowdhury/.m2/repository/io/cucumber/cucumber-core/7.14.0/cucumber-core-7.14.0.jar:/Users/rayhanchowdhury/.m2/repository/io/cucumber/cucumber-gherkin/7.14.0/cucumber-gherkin-7.14.0.jar:/Users/rayhanchowdhury/.m2/repository/io/cucumber/cucumber-gherkin-messages/7.14.0/cucumber-gherkin-messages-7.14.0.jar:/Users/rayhanchowdhury/.m2/repository/io/cucumber/gherkin/26.2.0/gherkin-26.2.0.jar:/Users/rayhanchowdhury/.m2/repository/io/cucumber/messages/22.0.0/messages-22.0.0.jar:/Users/rayhanchowdhury/.m2/repository/io/cucumber/tag-expressions/5.0.6/tag-expressions-5.0.6.jar:/Users/rayhanchowdhury/.m2/repository/io/cucumber/cucumber-expressions/16.1.2/cucumber-expressions-16.1.2.jar:/Users/rayhanchowdhury/.m2/repository/io/cucumber/datatable/7.14.0/datatable-7.14.0.jar:/Users/rayhanchowdhury/.m2/repository/io/cucumber/cucumber-plugin/7.14.0/cucumber-plugin-7.14.0.jar:/Users/rayhanchowdhury/.m2/repository/io/cucumber/docstring/7.14.0/docstring-7.14.0.jar:/Users/rayhanchowdhury/.m2/repository/io/cucumber/html-formatter/20.4.0/html-formatter-20.4.0.jar:/Users/rayhanchowdhury/.m2/repository/io/cucumber/junit-xml-formatter/0.2.0/junit-xml-formatter-0.2.0.jar:/Users/rayhanchowdhury/.m2/repository/io/cucumber/ci-environment/9.2.0/ci-environment-9.2.0.jar:/Users/rayhanchowdhury/.m2/repository/org/seleniumhq/selenium/selenium-java/4.15.0/selenium-java-4.15.0.jar:/Users/rayhanchowdhury/.m2/repository/org/seleniumhq/selenium/selenium-api/4.15.0/selenium-api-4.15.0.jar:/Users/rayhanchowdhury/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.15.0/selenium-chrome-driver-4.15.0.jar:/Users/rayhanchowdhury/.m2/repository/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar:/Users/rayhanchowdhury/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.15.0/selenium-chromium-driver-4.15.0.jar:/Users/rayhanchowdhury/.m2/repository/org/seleniumhq/selenium/selenium-json/4.15.0/selenium-json-4.15.0.jar:/Users/rayhanchowdhury/.m2/repository/org/seleniumhq/selenium/selenium-manager/4.15.0/selenium-manager-4.15.0.jar:/Users/rayhanchowdhury/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v117/4.15.0/selenium-devtools-v117-4.15.0.jar:/Users/rayhanchowdhury/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v118/4.15.0/selenium-devtools-v118-4.15.0.jar:/Users/rayhanchowdhury/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v119/4.15.0/selenium-devtools-v119-4.15.0.jar:/Users/rayhanchowdhury/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v85/4.15.0/selenium-devtools-v85-4.15.0.jar:/Users/rayhanchowdhury/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.15.0/selenium-edge-driver-4.15.0.jar:/Users/rayhanchowdhury/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.15.0/selenium-firefox-driver-4.15.0.jar:/Users/rayhanchowdhury/.m2/repository/org/seleniumhq/selenium/selenium-http/4.15.0/selenium-http-4.15.0.jar:/Users/rayhanchowdhury/.m2/repository/dev/failsafe/failsafe/3.3.2/failsafe-3.3.2.jar:/Users/rayhanchowdhury/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.15.0/selenium-ie-driver-4.15.0.jar:/Users/rayhanchowdhury/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.15.0/selenium-remote-driver-4.15.0.jar:/Users/rayhanchowdhury/.m2/repository/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre.jar:/Users/rayhanchowdhury/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/Users/rayhanchowdhury/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/rayhanchowdhury/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/rayhanchowdhury/.m2/repository/org/checkerframework/checker-qual/3.33.0/checker-qual-3.33.0.jar:/Users/rayhanchowdhury/.m2/repository/com/google/errorprone/error_prone_annotations/2.18.0/error_prone_annotations-2.18.0.jar:/Users/rayhanchowdhury/.m2/repository/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar:/Users/rayhanchowdhury/.m2/repository/io/opentelemetry/opentelemetry-api/1.28.0/opentelemetry-api-1.28.0.jar:/Users/rayhanchowdhury/.m2/repository/io/opentelemetry/opentelemetry-context/1.28.0/opentelemetry-context-1.28.0.jar:/Users/rayhanchowdhury/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.28.0/opentelemetry-exporter-logging-1.28.0.jar:/Users/rayhanchowdhury/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.28.0/opentelemetry-sdk-metrics-1.28.0.jar:/Users/rayhanchowdhury/.m2/repository/io/opentelemetry/opentelemetry-extension-incubator/1.28.0-alpha/opentelemetry-extension-incubator-1.28.0-alpha.jar:/Users/rayhanchowdhury/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.28.0/opentelemetry-sdk-logs-1.28.0.jar:/Users/rayhanchowdhury/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.28.0/opentelemetry-sdk-common-1.28.0.jar:/Users/rayhanchowdhury/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.28.0/opentelemetry-sdk-extension-autoconfigure-spi-1.28.0.jar:/Users/rayhanchowdhury/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.28.0/opentelemetry-sdk-extension-autoconfigure-1.28.0.jar:/Users/rayhanchowdhury/.m2/repository/io/opentelemetry/opentelemetry-api-events/1.28.0-alpha/opentelemetry-api-events-1.28.0-alpha.jar:/Users/rayhanchowdhury/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.28.0/opentelemetry-sdk-trace-1.28.0.jar:/Users/rayhanchowdhury/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.28.0/opentelemetry-sdk-1.28.0.jar:/Users/rayhanchowdhury/.m2/repository/io/opentelemetry/opentelemetry-semconv/1.28.0-alpha/opentelemetry-semconv-1.28.0-alpha.jar:/Users/rayhanchowdhury/.m2/repository/net/bytebuddy/byte-buddy/1.14.5/byte-buddy-1.14.5.jar:/Users/rayhanchowdhury/.m2/repository/org/seleniumhq/selenium/selenium-os/4.15.0/selenium-os-4.15.0.jar:/Users/rayhanchowdhury/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/rayhanchowdhury/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.15.0/selenium-safari-driver-4.15.0.jar:/Users/rayhanchowdhury/.m2/repository/org/seleniumhq/selenium/selenium-support/4.15.0/selenium-support-4.15.0.jar:"/>
@@ -29,7 +29,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/rayhanchowdhury/eclipse-workspace/hybridNinja/target/surefire/surefirebooter14150258208569053714.jar"/>
+    <property name="surefire.real.class.path" value="/Users/rayhanchowdhury/eclipse-workspace/hybridNinja/target/surefire/surefirebooter16896980963954788834.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="20.0.1+9-29"/>
@@ -57,64 +57,18 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="64.0"/>
   </properties>
-  <testcase name="Login with valid credentials #1" classname="Login functionality" time="6.475"/>
-  <testcase name="Login with valid credentials #2" classname="Login functionality" time="6.138"/>
-  <testcase name="Login with valid credentials #3" classname="Login functionality" time="5.761"/>
-  <testcase name="Login with invalid credentials" classname="Login functionality" time="16.404">
-    <error message="timeout: Timed out receiving message from renderer: -0.005&#10;  (Session info: chrome=120.0.6099.129)&#10;Build info: version: &apos;4.15.0&apos;, revision: &apos;1d14b5521b&apos;&#10;System info: os.name: &apos;Mac OS X&apos;, os.arch: &apos;aarch64&apos;, os.version: &apos;14.2.1&apos;, java.version: &apos;20.0.1&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Command: [6fe8a3fce9b944711f2d5e8ff603d5ba, get {url=https://tutorialsninja.com/demo/}]&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.129, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: /var/folders/ny/0jxhfr217tb...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51693}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:51693/devtoo..., se:cdpVersion: 120.0.6099.129, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}&#10;Session ID: 6fe8a3fce9b944711f2d5e8ff603d5ba" type="org.openqa.selenium.TimeoutException">org.openqa.selenium.TimeoutException: 
-timeout: Timed out receiving message from renderer: -0.005
-  (Session info: chrome=120.0.6099.129)
-Build info: version: '4.15.0', revision: '1d14b5521b'
-System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.2.1', java.version: '20.0.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [6fe8a3fce9b944711f2d5e8ff603d5ba, get {url=https://tutorialsninja.com/demo/}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.129, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: /var/folders/ny/0jxhfr217tb...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51693}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:51693/devtoo..., se:cdpVersion: 120.0.6099.129, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 6fe8a3fce9b944711f2d5e8ff603d5ba
-</error>
-    <system-out><![CDATA[
-Scenario: Login with invalid credentials                                   &amp#27;[90m# src/test/resource/features/Login.feature:16&amp#27;[0m
-      &amp#27;[31morg.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: -0.005
-  (Session info: chrome=120.0.6099.129)
-Build info: version: '4.15.0', revision: '1d14b5521b'
-System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.2.1', java.version: '20.0.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [6fe8a3fce9b944711f2d5e8ff603d5ba, get {url=https://tutorialsninja.com/demo/}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.129, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: /var/folders/ny/0jxhfr217tb...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51693}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:51693/devtoo..., se:cdpVersion: 120.0.6099.129, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 6fe8a3fce9b944711f2d5e8ff603d5ba
-	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
-	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:200)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:175)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:607)
-	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:309)
-	at hooks.MyHooks.setup(MyHooks.java:25)
-&amp#27;[0m
-  &amp#27;[36mGiven &amp#27;[0m&amp#27;[36mUser navigates to login page&amp#27;[0m                                       &amp#27;[90m# stepDefinations.Login.User_navigates_to_login_page()&amp#27;[0m
-  &amp#27;[36mWhen &amp#27;[0m&amp#27;[36mUser enters invalid email adress into email field&amp#27;[0m                   &amp#27;[90m# stepDefinations.Login.user_enters_invalid_email_adress_into_email_field()&amp#27;[0m
-  &amp#27;[36mAnd &amp#27;[0m&amp#27;[36mUser enters invalid password &amp#27;[0m&amp#27;[36m&amp#27;[1m"1234567890"&amp#27;[0m&amp#27;[36m into passwrod field&amp#27;[0m        &amp#27;[90m# stepDefinations.Login.user_enters_invalid_password_into_passwrod_field(java.lang.String)&amp#27;[0m
-  &amp#27;[36mAnd &amp#27;[0m&amp#27;[36mUser clicks on login button&amp#27;[0m                                          &amp#27;[90m# stepDefinations.Login.user_clicks_on_login_button()&amp#27;[0m
-  &amp#27;[36mThen &amp#27;[0m&amp#27;[36mUser should get a proper warning massage about credintials mismatch&amp#27;[0m &amp#27;[90m# stepDefinations.Login.user_should_get_a_proper_warning_massage_about_credintials_mismatch()&amp#27;[0m
-
-    Embedding _L_o_g_i_n_ _w_i_t_h_ _i_n_v_a_l_i_d_ _c_r_e_d_e_n_t_i_a_l_s_ [image/png 15459 bytes]
-
-]]></system-out>
-    <system-err><![CDATA[Dec 22, 2023 9:29:52 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 120, returning the closest version; found: 119; Please update to a Selenium version that supports CDP version 120
-]]></system-err>
-  </testcase>
-  <testcase name="Login with valid email invalid password" classname="Login functionality" time="5.746"/>
-  <testcase name="Login with invalid email and valid password" classname="Login functionality" time="5.525"/>
-  <testcase name="Login without providing any credentials" classname="Login functionality" time="5.516"/>
-  <testcase name="User creates an account only with mandatory fields" classname="Registration functionality" time="6.487"/>
-  <testcase name="User creates an account with all fields" classname="Registration functionality" time="6.37"/>
-  <testcase name="User creates an duplicate account" classname="Registration functionality" time="11.454"/>
-  <testcase name="User creats and accounts without filling any details" classname="Registration functionality" time="5.944"/>
-  <testcase name="User searches for valid product" classname="Search functionality" time="5.185"/>
-  <testcase name="User seaches for an invalid product" classname="Search functionality" time="5.104"/>
-  <testcase name="User Searches without any product" classname="Search functionality" time="4.716"/>
+  <testcase name="Login with valid credentials #1" classname="Login functionality" time="6.005"/>
+  <testcase name="Login with valid credentials #2" classname="Login functionality" time="5.933"/>
+  <testcase name="Login with valid credentials #3" classname="Login functionality" time="5.852"/>
+  <testcase name="Login with invalid credentials" classname="Login functionality" time="5.58"/>
+  <testcase name="Login with valid email invalid password" classname="Login functionality" time="5.878"/>
+  <testcase name="Login with invalid email and valid password" classname="Login functionality" time="5.622"/>
+  <testcase name="Login without providing any credentials" classname="Login functionality" time="5.472"/>
+  <testcase name="User creates an account only with mandatory fields" classname="Registration functionality" time="7.321"/>
+  <testcase name="User creates an account with all fields" classname="Registration functionality" time="7.073"/>
+  <testcase name="User creates an duplicate account" classname="Registration functionality" time="6.41"/>
+  <testcase name="User creats and accounts without filling any details" classname="Registration functionality" time="6.095"/>
+  <testcase name="User searches for valid product" classname="Search functionality" time="5.358"/>
+  <testcase name="User seaches for an invalid product" classname="Search functionality" time="5.214"/>
+  <testcase name="User Searches without any product" classname="Search functionality" time="5.138"/>
 </testsuite>
